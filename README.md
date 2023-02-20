@@ -1,6 +1,6 @@
 # NodeJS-mongoDB vscode containers
 
-# Extetensions
+# Extensions
 
 dbaeumer.vscode-eslint
 mongodb.mongodb-vscode
